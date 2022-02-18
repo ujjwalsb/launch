@@ -292,6 +292,11 @@ form label {
     width: 100% !important;
     text-align: center;
   }
+  #mce-EMAIL {
+
+    width: 100% !important;
+    text-align: center;
+  }
 }
 #fh5co-header-subscribe button {
   margin-top: .3em;
@@ -308,6 +313,11 @@ form label {
   #fh5co-header-subscribe button {
     width: 100%;
     margin-left: 0;
+  }
+  #mc-embedded-subscribe {
+
+    width: 100%;
+    margin-left: 0 !important;
   }
 }
 
